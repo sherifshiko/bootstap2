@@ -1,6 +1,10 @@
 .iconss{
-    width: 30px;
-    background-color:#6610f2;
-    right:5px;
+    width: px;
+    background-color:#6f42c1;
+    right:50px;
     bottom: 5px;
+}
+
+.select{
+    background-color: #6f42c1;
 }
